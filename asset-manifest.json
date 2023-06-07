@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/The-Note/static/css/main.f3d706cc.css",
+    "main.js": "/The-Note/static/js/main.763c729d.js",
+    "index.html": "/The-Note/index.html",
+    "main.f3d706cc.css.map": "/The-Note/static/css/main.f3d706cc.css.map",
+    "main.763c729d.js.map": "/The-Note/static/js/main.763c729d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3d706cc.css",
+    "static/js/main.763c729d.js"
+  ]
+}
